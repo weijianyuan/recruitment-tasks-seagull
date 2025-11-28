@@ -1,0 +1,5 @@
+#Short commentary:
+#The dashboard compares day-ahead forecasts with actual wind and solar generation for the selected date, with all timestamps converted to CEST. 
+#For both technologies, the graphs show where the forecast aligns with real output and where noticeable deviations occur. 
+#Tables under each plot summarize the forecast error for every settlement period. 
+#Larger mismatches — especially during high-generation hours — could have affected system balancing by increasing the need for reserve activation or short-term market adjustments.
