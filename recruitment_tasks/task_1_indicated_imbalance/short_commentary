@@ -1,0 +1,5 @@
+#Short commentary:
+#The dashboard shows the evolution of the indicated imbalance for all settlement periods, converted from UTC to CEST. 
+#The plot includes the last two periods of the previous UTC day (47–48) as well as periods 1–46 of the selected day. 
+#An additional real-time graph displays the latest values, which refresh automatically as new data is published. 
+#A visual indicator highlights how each forecast update differs from the previous version, making it easy to spot changes and trends in the imbalance signal.
